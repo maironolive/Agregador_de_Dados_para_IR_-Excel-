@@ -1,4 +1,3 @@
-# Agregador_de_Dados_para_IR_-Excel-
 # 📊 Agregador de Dados para Imposto de Renda (Excel)
 ## 🧾 Descrição do Projeto
 Este projeto foi desenvolvido como parte de um desafio do Curso de Excel da DIO (Digital Innovation One) e tem como objetivo criar uma ferramenta em Microsoft Excel para auxiliar na organização e controle de informações essenciais para a declaração do Imposto de Renda.
@@ -47,3 +46,12 @@ A solução consiste em um agregador de dados, permitindo que o usuário registr
 - Criação de soluções práticas para problemas reais
 - Uso de validações e automações
 - Organização e usabilidade em planilhas
+
+## 👨‍💻 Autor
+### Mairon Oliveira
+GitHub: Mairon Oliveira
+LinkedIn: Mairon Oliveira
+Email: Mairon Oliveira
+⭐ Agradecimentos
+DIO (Digital Innovation One) pela plataforma de aprendizado
+Santander pelo patrocínio do bootcamp
