@@ -48,10 +48,12 @@ A solução consiste em um agregador de dados, permitindo que o usuário registr
 - Organização e usabilidade em planilhas
 
 ## 👨‍💻 Autor
-### Mairon Oliveira
-GitHub: Mairon Oliveira
-LinkedIn: Mairon Oliveira
-Email: Mairon Oliveira
-⭐ Agradecimentos
-DIO (Digital Innovation One) pela plataforma de aprendizado
-Santander pelo patrocínio do bootcamp
+## Mairon Oliveira
+
+- GitHub: [Mairon Oliveira](https://github.com/maironolive/)
+- LinkedIn: [Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
+- Email: [Mairon Oliveira](maironhenrique@hotmail.com)
+
+## ⭐ Agradecimentos
+- **DIO (Digital Innovation One)** pela plataforma de aprendizado
+- **Santander** pelo patrocínio do bootcamp
